@@ -117,9 +117,8 @@ body {
 }
 #page {
 	position: relative;
-	// overflow-x: visible;
-	// overflow-y: visible;
-	overflow: visible;
+	overflow-x: visible;
+	overflow-y: visible;
 	width: 100%;
 	
 	@include transition(.5s);
