@@ -22,7 +22,7 @@ pageEncoding="UTF-8"%>
 
 <div class="page_aticle">
     <div id="lnbMenu" class="lnb_menu">
-        <div id="bnrCategory" class="bnr_category" style="">
+        <div id="bnrCategory" class="bnr_category" style="">  
             <div class="thumb"><img src="" alt="카테고리배너"></div></div> 
             <div class="inner_lnb">
                 <div class="ico_cate">

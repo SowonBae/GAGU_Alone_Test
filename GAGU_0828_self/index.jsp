@@ -37,7 +37,7 @@
 	<div class="gtco-loader"></div>	
 	<div id="page">
 
-		<jsp:include page="inc/top.jsp"/>
+		<jsp:include page="/inc/topcopy.jsp"/>
 
 		<div class="gtco-container"> 
 			<div class="row">
